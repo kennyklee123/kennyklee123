@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://user-images.githubusercontent.com/55815393/87513521-b2929400-c62d-11ea-92ed-946b0ae280f8.png)
 
 I'm Kenny and I am a rising senior whose internship was cancelled due to Covid 19. So I decided that this summer I would prepare for new grad positions and work on side projects!  I am open to all help and advice if anyone has any!!!!  Personally, to not waste this summer I have started to learn Web Devlelopment, specifically picking up React, Node, and Express! 
 
