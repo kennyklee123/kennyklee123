@@ -3,6 +3,10 @@
 
 I'm Kenny from Los Angeles! I am a rising senior whose internship was cancelled due to Covid 19. So I decided that this summer I would prepare for new grad positions and work on side projects!  I am open to all help and advice if anyone has any!!!!  Personally, to not waste this summer I have started to learn Web Devlelopment, specifically picking up React, Node, and Express! 
 
+## Find Me Around The Internet!
+[LinkedIn](https://www.linkedin.com/in/kenny-lee-ba762b194/)
+
+
 <!--
 **kennyklee123/kennyklee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
