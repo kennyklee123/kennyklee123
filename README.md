@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hi there!  I'm Kenny and I am a rising senior whose internship was cancelled due to Covid 19.
+
+Hi there!  I'm Kenny and I am a rising senior whose internship was cancelled due to Covid 19. So I decided that this summer I would prepare for new grad positions and work on side projects!  I am open to all help and advice if anyone has any!!!!  Personally, to not waste this summer I have started to learn Web Devlelopment, specifically picking up React, Node, and Express! 
 
 <!--
 **kennyklee123/kennyklee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
