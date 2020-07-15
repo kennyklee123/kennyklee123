@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hi there!  I'm Kenny and I am a rising senior whose internship was cancelled due to Covid 19.
 
 <!--
 **kennyklee123/kennyklee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
