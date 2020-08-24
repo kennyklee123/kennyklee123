@@ -5,7 +5,7 @@ I'm Kenny from Los Angeles! I am a rising senior whose internship was cancelled 
 
 ## Find Me Around The Internet!
 [LinkedIn](https://www.linkedin.com/in/kenny-lee-ba762b194/)
-[Personal Website] ((https://www.kennylee.me/)
+[Personal Website](https://www.kennylee.me/)
 
 
 <!--
